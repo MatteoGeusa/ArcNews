@@ -1,0 +1,39 @@
+2026-01-26 21:16:18 - INFO - >>> START ESECUZIONE
+2026-01-26 21:16:18 - INFO - STOP (Tolerance Reached) | Tot: 0.40s | Net: 0.40s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-26 21:42:18 - INFO - >>> START ESECUZIONE
+2026-01-26 21:42:18 - INFO - STOP (Tolerance Reached) | Tot: 0.51s | Net: 0.51s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-26 22:08:30 - INFO - >>> START ESECUZIONE
+2026-01-26 22:08:30 - INFO - STOP (End of List) | Tot: 0.01s | Net: 0.01s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 0 | Err: 0
+2026-01-27 19:21:09 - INFO - >>> START ESECUZIONE
+2026-01-27 19:21:11 - INFO - STOP (Tolerance Reached) | Tot: 2.09s | Net: 1.38s | DB: 0.12s | TG: 0.57s | New: 1 | Skip: 5 | Err: 0
+2026-01-27 19:31:58 - INFO - >>> START ESECUZIONE
+2026-01-27 19:31:58 - INFO - STOP (Tolerance Reached) | Tot: 0.53s | Net: 0.53s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-27 19:54:07 - INFO - >>> START ESECUZIONE
+2026-01-27 19:54:07 - INFO - STOP (End of List) | Tot: 0.01s | Net: 0.01s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 0 | Err: 0
+2026-01-27 20:05:01 - INFO - >>> START ESECUZIONE
+2026-01-27 20:05:02 - INFO - STOP (Tolerance Reached) | Tot: 0.53s | Net: 0.52s | DB: 0.02s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-27 20:08:22 - INFO - >>> START ESECUZIONE
+2026-01-27 20:08:22 - INFO - DB connesso e migrazioni verificate.
+2026-01-27 20:08:22 - INFO - Scraper ha trovato 42 articoli totali.
+2026-01-27 20:08:22 - INFO - Interruzione ciclo: Tolerance Reached
+2026-01-27 20:08:22 - INFO - STOP (Tolerance Reached) | Tot: 0.50s | Net: 0.48s | DB: 0.02s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-27 20:43:40 - INFO - >>> START ESECUZIONE
+2026-01-27 20:43:40 - INFO - DB connesso e migrazioni verificate.
+2026-01-27 20:43:41 - INFO - Scraper ha trovato 42 articoli totali.
+2026-01-27 20:43:41 - INFO - Interruzione ciclo: Tolerance Reached
+2026-01-27 20:43:41 - INFO - STOP (Tolerance Reached) | Tot: 0.54s | Net: 0.52s | DB: 0.02s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-28 19:11:10 - INFO - >>> START ESECUZIONE
+2026-01-28 19:11:11 - INFO - DB connesso e migrazioni verificate.
+2026-01-28 19:11:11 - INFO - Scraper ha trovato 42 articoli totali.
+2026-01-28 19:11:11 - INFO - Interruzione ciclo: Tolerance Reached
+2026-01-28 19:11:11 - INFO - STOP (Tolerance Reached) | Tot: 1.03s | Net: 0.93s | DB: 0.06s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-28 20:13:12 - INFO - >>> START ESECUZIONE
+2026-01-28 20:13:12 - INFO - DB connesso e migrazioni verificate.
+2026-01-28 20:13:12 - INFO - Scraper ha trovato 42 articoli totali.
+2026-01-28 20:13:12 - INFO - Interruzione ciclo: Tolerance Reached
+2026-01-28 20:13:12 - INFO - STOP (Tolerance Reached) | Tot: 0.44s | Net: 0.44s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
+2026-01-28 20:26:09 - INFO - >>> START ESECUZIONE
+2026-01-28 20:26:09 - INFO - DB connesso e migrazioni verificate.
+2026-01-28 20:26:10 - INFO - Scraper ha trovato 42 articoli totali.
+2026-01-28 20:26:10 - INFO - Interruzione ciclo: Tolerance Reached
+2026-01-28 20:26:10 - INFO - STOP (Tolerance Reached) | Tot: 0.53s | Net: 0.53s | DB: 0.00s | TG: 0.00s | New: 0 | Skip: 5 | Err: 0
