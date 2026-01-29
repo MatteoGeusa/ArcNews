@@ -24,7 +24,6 @@ class DatabaseManager:
         """
         self.cursor.executescript(query)
         self.connection.commit()
-        print("Migrazione applicata con successo.")
 
     def upsert_news(self, checksum_id, date, title, url, content, photos_json):
         self.cursor.execute("SELECT checksum FROM news WHERE url = ?", (url,))
