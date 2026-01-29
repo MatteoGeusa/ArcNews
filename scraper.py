@@ -34,7 +34,7 @@ class ArcNewsScraper:
             print(f"Errore scraping dettagli {article_link}: {e}")
             return "", []
 
-def fetch_latest_news(self):
+    def fetch_latest_news(self):
         """
         Scarica la lista delle news.
         Restituisce una lista di dizionari o una lista vuota in caso di errore.
